@@ -45,23 +45,13 @@ Currently improving skills in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/edsonjunior7/edsonjunior7/stats-output/stats.svg" height="170" alt="stats graph"  />
+<img src="https://raw.githubusercontent.com/edsonjunior7/edsonjunior7/stats-output/stats.svg" height="170" alt="stats graph"/>
 
-<img src="https://raw.githubusercontent.com/edsonjunior7/edsonjunior7/languages-output/languages.svg" height="170" alt="languages graph"  />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/edsonjunior7/edsonjunior7/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/edsonjunior7/edsonjunior7/languages-output/languages.svg" height="170" alt="languages graph"/>
 
 </div>
 
@@ -71,11 +61,11 @@ Currently improving skills in:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GMAIL">
+<a href="mailto:YOUR-EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
