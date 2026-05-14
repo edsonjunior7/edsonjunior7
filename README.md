@@ -31,15 +31,34 @@ Currently improving skills in:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
 <img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
 <img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 <img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
 <img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
 <img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"/>
+
+</div>
+
+---
+
+## 💻 Backend Engineering
+
+<div align="center">
+
+<img 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNmeWdlbDY1bHR4ZjV6aGd4OG8zcGFqZ2RxejB0MnRidmJlODE3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRebCjNbc4dIA/giphy.gif"
+  height="220"
+  style="border-radius:12px;"
+/>
 
 </div>
 
@@ -49,9 +68,15 @@ Currently improving skills in:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/edsonjunior7/edsonjunior7/stats-output/stats.svg" height="170" alt="stats graph"/>
+<img 
+  height="170" 
+  src="https://github-readme-stats.vercel.app/api?username=edsonjunior7&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<img src="https://raw.githubusercontent.com/edsonjunior7/edsonjunior7/languages-output/languages.svg" height="170" alt="languages graph"/>
+<img 
+  height="170" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjunior7&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
@@ -61,11 +86,11 @@ Currently improving skills in:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/edson-uruguay-b30a84304">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:uruguayedsonjunior@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
